@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1761324890 source:c:\users\rean\documents\codes\susuko nako\stockmanagement\main.cpp
+	<iostream>
+	<map>
+	<set>
+	<queue>
+	<stack>
+	<vector>
+	<algorithm>
+	<string>
+
